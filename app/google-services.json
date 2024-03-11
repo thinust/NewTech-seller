@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "694261136240",
+    "project_id": "new-tech-5c290",
+    "storage_bucket": "new-tech-5c290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694261136240:android:cf8cad1d1ab6b2a7bfadb5",
+        "android_client_info": {
+          "package_name": "com.oriensolutions.newtech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN_yn3328l6nnR_DzhDAnYQ9XgT_PbiJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694261136240:android:f149437dbd6872acbfadb5",
+        "android_client_info": {
+          "package_name": "com.oriensolutions.newtechseller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN_yn3328l6nnR_DzhDAnYQ9XgT_PbiJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
